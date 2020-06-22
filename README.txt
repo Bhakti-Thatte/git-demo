@@ -2,25 +2,8 @@
 
 This is the first file in this repo.
 
-## IPsum Below;
+## Web Site contents
 
-isadsadsdsafsfdsfdsfdsfsdffdsf
-safdsfdsfdfffdsdsfddfsfds
-fsfsfasffdfds
-fdsfdfsffdsfd
-fdsffdfds
-fdsfdfdsfd
-fsdffdsfds
-ffdssfdsfdsfd
+Hear are the files in the website
 
-
-
-dsfdsfgfggfgfgg
-fdgfgggfgf
-gfdggggf
-
-dddddddddddddddddddddd
-
-ds
-
-Web Site containts 
+1. Index.html
